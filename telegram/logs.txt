@@ -1,0 +1,222 @@
+Sat May 19 11:36:33 MSK 2018 =====================New Session=========================
+Sat May 19 11:36:36 MSK 2018 Ошибка при запуске бота: org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error executing setWebook method
+Sat May 19 11:40:18 MSK 2018 =====================New Session=========================
+Sat May 19 11:40:21 MSK 2018 Бот запустился Хозяин!
+Sat May 19 11:46:00 MSK 2018 =====================New Session=========================
+Sat May 19 11:46:02 MSK 2018 Бот запустился Хозяин!
+Sat May 19 11:47:42 MSK 2018 =====================New Session=========================
+Sat May 19 11:47:44 MSK 2018 Бот запустился Хозяин!
+Sat May 19 12:16:01 MSK 2018 =====================New Session=========================
+Sat May 19 12:16:03 MSK 2018 Бот запустился Хозяин!
+Sat May 19 12:16:30 MSK 2018 =====================New Session=========================
+Sat May 19 12:16:32 MSK 2018 Бот запустился Хозяин!
+Sat May 19 12:17:25 MSK 2018 =====================New Session=========================
+Sat May 19 12:17:27 MSK 2018 Бот запустился Хозяин!
+Sat May 19 12:39:34 MSK 2018 =====================New Session=========================
+Sat May 19 12:39:37 MSK 2018 Бот запустился Хозяин!
+Sat May 19 12:40:08 MSK 2018 =====================New Session=========================
+Sat May 19 12:40:10 MSK 2018 Бот запустился Хозяин!
+Sat May 19 12:40:22 MSK 2018 =====================New Session=========================
+Sat May 19 12:40:25 MSK 2018 Бот запустился Хозяин!
+Sat May 19 12:44:30 MSK 2018 =====================New Session=========================
+Sat May 19 12:44:32 MSK 2018 Бот запустился Хозяин!
+Sat May 19 12:44:53 MSK 2018 =====================New Session=========================
+Sat May 19 12:44:56 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:09:47 MSK 2018 =====================New Session=========================
+Sat May 19 13:09:51 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:10:30 MSK 2018 =====================New Session=========================
+Sat May 19 13:10:32 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:11:42 MSK 2018 =====================New Session=========================
+Sat May 19 13:11:44 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:16:59 MSK 2018 =====================New Session=========================
+Sat May 19 13:17:02 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:19:08 MSK 2018 =====================New Session=========================
+Sat May 19 13:19:11 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:21:17 MSK 2018 =====================New Session=========================
+Sat May 19 13:21:19 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:27:39 MSK 2018 =====================New Session=========================
+Sat May 19 13:27:42 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:43:48 MSK 2018 =====================New Session=========================
+Sat May 19 13:43:50 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:46:58 MSK 2018 =====================New Session=========================
+Sat May 19 13:47:00 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:49:00 MSK 2018 =====================New Session=========================
+Sat May 19 13:49:03 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:50:06 MSK 2018 =====================New Session=========================
+Sat May 19 13:50:09 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:55:42 MSK 2018 =====================New Session=========================
+Sat May 19 13:55:44 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:57:24 MSK 2018 =====================New Session=========================
+Sat May 19 13:57:26 MSK 2018 Бот запустился Хозяин!
+Sat May 19 13:58:47 MSK 2018 =====================New Session=========================
+Sat May 19 13:58:49 MSK 2018 Бот запустился Хозяин!
+Sat May 19 14:01:01 MSK 2018 =====================New Session=========================
+Sat May 19 14:01:03 MSK 2018 Бот запустился Хозяин!
+Sat May 19 14:03:25 MSK 2018 =====================New Session=========================
+Sat May 19 14:03:27 MSK 2018 Бот запустился Хозяин!
+Sat May 19 14:06:05 MSK 2018 =====================New Session=========================
+Sat May 19 14:06:07 MSK 2018 Бот запустился Хозяин!
+Sat May 19 14:14:02 MSK 2018 =====================New Session=========================
+Sat May 19 14:14:05 MSK 2018 Бот запустился Хозяин!
+Sat May 19 15:05:32 MSK 2018 =====================New Session=========================
+Sat May 19 15:05:35 MSK 2018 Бот запустился Хозяин!
+Sat May 19 15:12:16 MSK 2018 =====================New Session=========================
+Sat May 19 15:12:18 MSK 2018 Бот запустился Хозяин!
+Sat May 19 15:31:34 MSK 2018 =====================New Session=========================
+Sat May 19 15:31:36 MSK 2018 Бот запустился Хозяин!
+Sat May 19 16:11:47 MSK 2018 =====================New Session=========================
+Sat May 19 16:11:50 MSK 2018 Бот запустился Хозяин!
+Sat May 19 16:12:12 MSK 2018 =====================New Session=========================
+Sat May 19 16:12:14 MSK 2018 Бот запустился Хозяин!
+Sat May 19 16:13:26 MSK 2018 =====================New Session=========================
+Sat May 19 16:13:28 MSK 2018 Бот запустился Хозяин!
+Sat May 19 16:37:22 MSK 2018 =====================New Session=========================
+Sat May 19 16:37:24 MSK 2018 Бот запустился Хозяин!
+Sat May 19 18:51:31 MSK 2018 =====================New Session=========================
+Sat May 19 18:51:33 MSK 2018 Ошибка при запуске бота: org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error executing setWebook method
+Sat May 19 18:51:40 MSK 2018 =====================New Session=========================
+Sat May 19 18:51:43 MSK 2018 Бот запустился Хозяин!
+Sat May 19 21:25:16 MSK 2018 =====================New Session=========================
+Sat May 19 21:25:18 MSK 2018 Бот запустился Хозяин!
+Sat May 19 21:26:49 MSK 2018 =====================New Session=========================
+Sat May 19 21:26:51 MSK 2018 Бот запустился Хозяин!
+Sat May 19 21:48:27 MSK 2018 =====================New Session=========================
+Sat May 19 21:48:29 MSK 2018 Бот запустился Хозяин!
+Sat May 19 23:20:37 MSK 2018 =====================New Session=========================
+Sat May 19 23:20:39 MSK 2018 Ошибка при запуске бота: org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error executing setWebook method
+Sun May 20 00:05:43 MSK 2018 =====================New Session=========================
+Sun May 20 00:05:45 MSK 2018 Бот запустился Хозяин!
+Sun May 20 00:42:35 MSK 2018 =====================New Session=========================
+Sun May 20 00:42:38 MSK 2018 Бот запустился Хозяин!
+Sun May 20 00:46:36 MSK 2018 =====================New Session=========================
+Sun May 20 00:46:38 MSK 2018 Бот запустился Хозяин!
+Sun May 20 00:48:00 MSK 2018 =====================New Session=========================
+Sun May 20 00:48:03 MSK 2018 Бот запустился Хозяин!
+Sun May 20 00:51:27 MSK 2018 =====================New Session=========================
+Sun May 20 00:51:29 MSK 2018 Бот запустился Хозяин!
+Sun May 20 00:53:19 MSK 2018 =====================New Session=========================
+Sun May 20 00:53:22 MSK 2018 Бот запустился Хозяин!
+Sun May 20 01:16:07 MSK 2018 =====================New Session=========================
+Sun May 20 01:16:10 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:13:04 MSK 2018 =====================New Session=========================
+Sun May 20 02:13:06 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:13:35 MSK 2018 =====================New Session=========================
+Sun May 20 02:13:37 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:14:05 MSK 2018 =====================New Session=========================
+Sun May 20 02:14:07 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:16:46 MSK 2018 =====================New Session=========================
+Sun May 20 02:16:49 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:17:38 MSK 2018 =====================New Session=========================
+Sun May 20 02:17:40 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:18:21 MSK 2018 =====================New Session=========================
+Sun May 20 02:18:24 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:19:06 MSK 2018 =====================New Session=========================
+Sun May 20 02:19:08 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:22:12 MSK 2018 =====================New Session=========================
+Sun May 20 02:22:14 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:26:04 MSK 2018 =====================New Session=========================
+Sun May 20 02:26:06 MSK 2018 Бот запустился Хозяин!
+Sun May 20 02:37:08 MSK 2018 =====================New Session=========================
+Sun May 20 02:37:11 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:03:15 MSK 2018 =====================New Session=========================
+Sun May 20 03:03:18 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:16:45 MSK 2018 =====================New Session=========================
+Sun May 20 03:16:47 MSK 2018 Ошибка при запуске бота: org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error executing setWebook method
+Sun May 20 03:17:17 MSK 2018 =====================New Session=========================
+Sun May 20 03:17:20 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:18:40 MSK 2018 =====================New Session=========================
+Sun May 20 03:19:04 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:21:10 MSK 2018 =====================New Session=========================
+Sun May 20 03:21:15 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:22:21 MSK 2018 =====================New Session=========================
+Sun May 20 03:22:40 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:23:20 MSK 2018 =====================New Session=========================
+Sun May 20 03:24:12 MSK 2018 =====================New Session=========================
+Sun May 20 03:24:31 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:39:37 MSK 2018 =====================New Session=========================
+Sun May 20 03:39:54 MSK 2018 =====================New Session=========================
+Sun May 20 03:39:56 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:55:11 MSK 2018 =====================New Session=========================
+Sun May 20 03:55:13 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:58:00 MSK 2018 =====================New Session=========================
+Sun May 20 03:58:05 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:58:38 MSK 2018 =====================New Session=========================
+Sun May 20 03:58:49 MSK 2018 Бот запустился Хозяин!
+Sun May 20 03:59:40 MSK 2018 =====================New Session=========================
+Sun May 20 03:59:43 MSK 2018 Бот запустился Хозяин!
+Sun May 20 04:01:58 MSK 2018 =====================New Session=========================
+Sun May 20 04:02:00 MSK 2018 Бот запустился Хозяин!
+Sun May 20 04:02:35 MSK 2018 =====================New Session=========================
+Sun May 20 04:02:37 MSK 2018 Бот запустился Хозяин!
+Sun May 20 04:34:31 MSK 2018 =====================New Session=========================
+Sun May 20 04:34:33 MSK 2018 Бот запустился Хозяин!
+Sun May 20 04:39:54 MSK 2018 =====================New Session=========================
+Sun May 20 04:39:56 MSK 2018 Бот запустился Хозяин!
+Sun May 20 04:44:29 MSK 2018 =====================New Session=========================
+Sun May 20 04:44:32 MSK 2018 Бот запустился Хозяин!
+Sun May 20 04:44:53 MSK 2018 =====================New Session=========================
+Sun May 20 04:44:55 MSK 2018 Бот запустился Хозяин!
+Sun May 20 05:13:19 MSK 2018 =====================New Session=========================
+Sun May 20 05:13:22 MSK 2018 Ошибка при запуске бота: org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error executing setWebook method
+Sun May 20 05:16:10 MSK 2018 =====================New Session=========================
+Sun May 20 05:16:13 MSK 2018 Бот запустился Хозяин!
+Sun May 20 05:16:26 MSK 2018 Ошибка отправки bot-SendMes1 org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 18
+Sun May 20 06:19:15 MSK 2018 =====================New Session=========================
+Sun May 20 06:19:17 MSK 2018 Бот запустился Хозяин!
+Sun May 20 06:19:24 MSK 2018 Ошибка отправки bot-SendMes1 org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 18
+Sun May 20 06:23:02 MSK 2018 =====================New Session=========================
+Sun May 20 06:23:05 MSK 2018 Бот запустился Хозяин!
+Sun May 20 06:23:05 MSK 2018 =====================New Session=========================
+Sun May 20 06:23:07 MSK 2018 Бот запустился Хозяин!
+Sun May 20 06:23:14 MSK 2018 Ошибка отправки bot-SendMes1 org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 18
+Sun May 20 06:23:40 MSK 2018 =====================New Session=========================
+Sun May 20 06:23:42 MSK 2018 Бот запустился Хозяин!
+Sun May 20 06:23:54 MSK 2018 Ошибка отправки bot-SendMes1 org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 18
+Sun May 20 06:25:13 MSK 2018 =====================New Session=========================
+Sun May 20 06:25:15 MSK 2018 Бот запустился Хозяин!
+Sun May 20 06:25:19 MSK 2018 Ошибка отправки bot-SendMes1 org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 18
+Sun May 20 06:26:10 MSK 2018 =====================New Session=========================
+Sun May 20 06:26:12 MSK 2018 Бот запустился Хозяин!
+Sun May 20 06:26:21 MSK 2018 Ошибка отправки bot-SendMes1 org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 18
+Sun May 20 11:25:47 MSK 2018 =====================New Session=========================
+Sun May 20 11:25:49 MSK 2018 Бот запустился Хозяин!
+Sun May 20 11:25:57 MSK 2018 Ошибка отправки bot-SendMes1 org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 18
+Sun May 20 11:26:54 MSK 2018 =====================New Session=========================
+Sun May 20 11:26:57 MSK 2018 Бот запустился Хозяин!
+Sun May 20 11:26:59 MSK 2018 Ошибка отправки bot-SendMes1 org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 18
+Sun May 20 11:27:19 MSK 2018 =====================New Session=========================
+Sun May 20 11:27:22 MSK 2018 Бот запустился Хозяин!
+Sun May 20 11:30:22 MSK 2018 =====================New Session=========================
+Sun May 20 11:30:24 MSK 2018 Бот запустился Хозяин!
+Sun May 20 11:58:05 MSK 2018 =====================New Session=========================
+Sun May 20 11:58:07 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:00:39 MSK 2018 =====================New Session=========================
+Sun May 20 12:00:42 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:09:01 MSK 2018 =====================New Session=========================
+Sun May 20 12:09:04 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:11:56 MSK 2018 =====================New Session=========================
+Sun May 20 12:11:59 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:15:13 MSK 2018 =====================New Session=========================
+Sun May 20 12:15:16 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:15:52 MSK 2018 =====================New Session=========================
+Sun May 20 12:15:54 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:18:39 MSK 2018 =====================New Session=========================
+Sun May 20 12:18:41 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:53:14 MSK 2018 =====================New Session=========================
+Sun May 20 12:53:16 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:55:31 MSK 2018 =====================New Session=========================
+Sun May 20 12:55:34 MSK 2018 Бот запустился Хозяин!
+Sun May 20 12:59:48 MSK 2018 =====================New Session=========================
+Sun May 20 12:59:51 MSK 2018 Бот запустился Хозяин!
+Sun May 20 13:02:30 MSK 2018 =====================New Session=========================
+Sun May 20 13:02:33 MSK 2018 Бот запустился Хозяин!
+Sun May 20 13:02:51 MSK 2018 =====================New Session=========================
+Sun May 20 13:02:54 MSK 2018 Бот запустился Хозяин!
+Sun May 20 13:06:16 MSK 2018 =====================New Session=========================
+Sun May 20 13:06:18 MSK 2018 Бот запустился Хозяин!
+Sun May 20 13:26:37 MSK 2018 =====================New Session=========================
+Sun May 20 13:26:39 MSK 2018 Бот запустился Хозяин!
+Sun May 20 13:51:36 MSK 2018 =====================New Session=========================
+Sun May 20 13:51:38 MSK 2018 Бот запустился Хозяин!
+Sun May 20 14:10:20 MSK 2018 =====================New Session=========================
+Sun May 20 14:10:23 MSK 2018 Бот запустился Хозяин!
